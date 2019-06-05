@@ -6,9 +6,9 @@
 ![Downloads](https://img.shields.io/badge/Downloads-500%2B-orange.svg)
 <br>
             So I recently found a velnerability in Saavn Rest API which enables you to access premium content directly. 
-So I decided why not make an app, so that ever one can enjoy it. and this app is the result.
+So I decided why not make an app, so that every one can enjoy it.... and this app is the result.
 
-***I will upload the source code once App become Stable***
+***I will make the source code public once the App become Stable***
 
 
 **Consider Giving a ⭐ if you like my work**
