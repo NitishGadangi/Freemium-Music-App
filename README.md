@@ -5,10 +5,10 @@
 ![Last Update](https://img.shields.io/badge/Last%20Update-05%20July%202019-red.svg)
 ![Downloads](https://img.shields.io/badge/Downloads-500%2B-orange.svg)
 <br>
-            So I recently found a velnerability in Saavn Rest API which enables you to access premium content directly. 
-So I decided why not make an app, so that every one can enjoy it.... and this app is the result.
+            So I recently found a vulnerability in Saavn Rest API which enables you to access premium content directly. 
+So I decided why not make an app so that everyone can enjoy it.... and this app is the result.
 
-***I will make the source code public once the App become Stable***
+***I will make the source code public once the App becomes Stable***
 
 
 **Consider Giving a ⭐ if you like my work**
@@ -18,7 +18,7 @@ So I decided why not make an app, so that every one can enjoy it.... and this ap
 * Enabled ID3 tagging and Album art features.
 * So every song will be compiled with song info and Album Art.
 * Search Songs directly from Saavn Database with Search feature.
-* (Experimental)Browse songs using Saavn Web ui.
+* (Experimental)Browse songs using Saavn Web UI.
 
 ### Few ScreenShots:
 
@@ -31,11 +31,11 @@ So I decided why not make an app, so that every one can enjoy it.... and this ap
 ### Things to consider:
 * The app is still in beta. So having bugs is common. If you found any bug, please report it here [Telegram Group](https://t.me/joinchat/HH4B2xFVtt6_2hbJl_qKQA).
 * This App is developed Lollipop (API level 22) as the base, so it should work flawlessly on Marshmallow and above devices.
-* However, ID3 tagging and Album art feature is currently enabled for only for devices with Android Oreo(Api 26) and Above.
-* Downloads page is still under development and will be released in next beta..
+* However, ID3 tagging and Album art feature are currently enabled for only for devices with Android Oreo(Api 26) and Above.
+* Downloads page is still under development and will be released in next beta...
 
 ### What about next release?
-* Will include online streaming feature with in the app.
+* Will include an online streaming feature within the app.
 * Revamp the downloads page.
 * Make the app Smoother
 * Add option to select between mp3 and m4a
