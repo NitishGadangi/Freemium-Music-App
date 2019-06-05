@@ -41,4 +41,4 @@ So I decided why not make an app, so that ever one can enjoy it. and this app is
 * Add option to select between mp3 and m4a
 * Add a toggle to enable or disable Album art Feature.
 
-***The current app icon really looks like shit..😅..If you have any good icon suggestions please post it here [Telegram Group](https://t.me/joinchat/HH4B2xFVtt6_2hbJl_qKQA) or dm me..
+**Made with ❤️ by Nitish**
