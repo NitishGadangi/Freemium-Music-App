@@ -8,10 +8,10 @@
             So I recently found a vulnerability in Saavn Rest API which enables you to access premium content directly. 
 So I decided why not make an app so that everyone can enjoy it.... and this app is the result.
 
-***I will make the source code public once the App becomes Stable***
+***I will make the source code public [here](https://github.com/NitishGadangi/Freemium-App) once the App becomes Stable***
 
 
-**Consider Giving a ⭐ if you like my work**
+**Consider Giving a ⭐ [here](https://github.com/NitishGadangi/Freemium-App) if you like my work**
 
 ### Features:
 * Download High-Quality Music .m4a (320kbps or 160kbps or 96kbps) directly into your local storage.
