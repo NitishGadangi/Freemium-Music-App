@@ -8,6 +8,9 @@
             So I recently found a velnerability in Saavn Rest API which enables you to access premium content directly. 
 So I decided why not make an app, so that ever one can enjoy it. and this app is the result.
 
+***I will upload the source code once App become Stable***
+**Consider Giving a ⭐ if you like my work**
+
 ### Features:
 * Download High-Quality Music .m4a (320kbps or 160kbps or 96kbps) directly into your local storage.
 * Enabled ID3 tagging and Album art features.
@@ -17,11 +20,11 @@ So I decided why not make an app, so that ever one can enjoy it. and this app is
 
 ### Few ScreenShots:
 
-![Screen Shots](https://github.com/NitishGadangi/Project-UnderConstruction/blob/master/screen_shots.png?raw=true)
+![Screen Shots](https://github.com/NitishGadangi/Freemium-App/blob/master/screen_shots.png?raw=true)
 
 ### Download from here:
 
-[![](https://github.com/NitishGadangi/Project-UnderConstruction/blob/master/click_here.png?raw=true)](https://www.mediafire.com/file/75434z2tfyl6kd3/Freemium_Music_v0.2Beta.apk/file)
+[![](https://github.com/NitishGadangi/Freemium-App/blob/master/click_here.png?raw=true)](https://www.mediafire.com/file/75434z2tfyl6kd3/Freemium_Music_v0.2Beta.apk/file)
 
 ### Things to consider:
 * The app is still in beta. So having bugs is common. If you found any bug, please report it here [Telegram Group](https://t.me/joinchat/HH4B2xFVtt6_2hbJl_qKQA).
