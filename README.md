@@ -35,7 +35,6 @@ So I decided why not make an app, so that ever one can enjoy it. and this app is
 * Downloads page is still under development and will be released in next beta..
 
 ### What about next release?
-**I will develop the next release once this release reach 200+ downloads..
 * Will include online streaming feature with in the app.
 * Revamp the downloads page.
 * Make the app Smoother
