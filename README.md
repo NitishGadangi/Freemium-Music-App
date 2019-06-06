@@ -2,7 +2,7 @@
 ![Build:Beta](https://img.shields.io/badge/Build-Beta-blue.svg)
 ![Version:0.2](https://img.shields.io/badge/Version-0.2-green.svg)
 ![Minimum API](https://img.shields.io/badge/Required-Android%206.0%2B-brightgreen.svg)
-![Last Update](https://img.shields.io/badge/Last%20Update-05%20July%202019-red.svg)
+![Last Update](https://img.shields.io/badge/Last%20Update-05%20June%202019-red.svg)
 ![Downloads](https://img.shields.io/badge/Downloads-2100%2B-orange.svg)
 <br>
             So I recently found a vulnerability in Saavn Rest API which enables you to access premium content directly. 
