@@ -51,4 +51,4 @@
 * ***Like my work?***
    * I am an Undergraduate Student who enjoys making these kinds of Apps in free time.
    * You can [Buy me a cofee](). It will encourage me and help me to spend my free time for further development of the app.
-   * Or you can help me by clicking on one Ad a day in the app which will generate ad revenue to me (Quite less than a coffee).
+   * ***Or you can help me by clicking on one Ad a day in the app*** which will generate ad revenue to me (Quite less than a coffee).
