@@ -1,11 +1,12 @@
-<img src="https://github.com/NitishGadangi/Freemium-App/blob/master/icon_app.png?raw=true" align="right" height='100' />
+<img src="https://github.com/NitishGadangi/Freemium-App/blob/master/icon_app.png?raw=true" align="right" height='250' />
 
 <h1> Freemium Music App (v0.2beta)</h1>
-![Build:Beta](https://img.shields.io/badge/Build-Beta-blue.svg)
-![Version:0.2](https://img.shields.io/badge/Version-0.2-green.svg)
-![Minimum API](https://img.shields.io/badge/Required-Android%206.0%2B-brightgreen.svg)
-![Last Update](https://img.shields.io/badge/Last%20Update-05%20June%202019-red.svg)
-![Downloads](https://img.shields.io/badge/Downloads-2800%2B-orange.svg)
+<img src="https://img.shields.io/badge/Build-Beta-blue.svg" />
+<img src="https://img.shields.io/badge/Version-0.2-green.svg" />
+<img src="https://img.shields.io/badge/Required-Android%206.0%2B-brightgreen.svg" />
+<img src="https://img.shields.io/badge/Last%20Update-05%20June%202019-red.svg" />
+<img src="https://img.shields.io/badge/Downloads-2800%2B-orange.svg" />
+
 <br>
             So I recently found a vulnerability in Saavn Rest API which enables you to access premium content directly. 
 So I decided why not make an app so that everyone can enjoy it.... and this app is the result.
