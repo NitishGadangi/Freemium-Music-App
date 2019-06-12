@@ -37,6 +37,12 @@
 * ***Want Lyrics?***
     * Please wait till next release. You can enjoy Audio Stream with Lyrics within the app.
 
+* ***Still any Doubts / Problems ? (or) Want to suggest me any new Feature / Idea ?
+     * Feel free to contact me any time through any of the following sources.
+     * Mail me to : apps.nitish@gmail.com
+     * Join our [Telegram Group](https://t.me/joinchat/HH4B2xFVtt6_2hbJl_qKQA)
+     * Find other ways from [My Website](https://nitishgadangi.github.io/)
+
 * ***Why ads?***
    * Ad's allow me to earn few bucks for my pocket money.
    * However I won't get anything unless you click on any of those Ad's.
