@@ -30,7 +30,7 @@ So I decided why not make an app so that everyone can enjoy it.... and this app 
 **Consider Giving a ⭐ [here](https://github.com/NitishGadangi/Freemium-App) if you like my work**
 
 ### Features:
-* Download High-Quality Music .m4a (320kbps or 160kbps or 96kbps) directly into your local storage.
+* Download High-Quality Music (.m4a or .mp3) (320kbps or 160kbps or 96kbps | AAC) directly into your local storage.
 * Enabled ID3 tagging and Album art features.
 * So every song will be compiled with song info and Album Art.
 * Search Songs directly from Saavn Database with Search feature.
