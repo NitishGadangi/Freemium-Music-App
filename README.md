@@ -13,7 +13,7 @@ So I decided why not make an app so that everyone can enjoy it.... and this app 
 <br>
 
 
-### (version 0.6_beta)
+### Change Log (version 0.6_beta)
 * Made UI Smooth by adding new animations for seamless transitions between activities.
 * Added new settings tab to configure defaults.
 * Added Mp3 support.
