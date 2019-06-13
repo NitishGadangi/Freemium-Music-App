@@ -2,10 +2,10 @@
 
 <h1> Freemium Music App (v0.2beta)</h1>
 <img src="https://img.shields.io/badge/Build-Beta-blue.svg" />
-<img src="https://img.shields.io/badge/Version-0.2-green.svg" />
+<img src="https://img.shields.io/badge/Version-0.6-green.svg" />
 <img src="https://img.shields.io/badge/Required-Android%206.0%2B-brightgreen.svg" />
-<img src="https://img.shields.io/badge/Last%20Update-05%20June%202019-red.svg" />
-<img src="https://img.shields.io/badge/Downloads-2800%2B-orange.svg" />
+<img src="https://img.shields.io/badge/Last%20Update-13%20June%202019-red.svg" />
+<img src="https://img.shields.io/badge/Downloads-3100%2B-orange.svg" />
 
 <br>
             So I recently found a vulnerability in Saavn Rest API which enables you to access premium content directly. 
