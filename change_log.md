@@ -1,5 +1,5 @@
-### (v0.6Beta)
 ### Whats new ?
+<h3>(version 0.6_beta)<h3>
 * Made UI Smooth by adding new animations for seamless transitions between activities.
 * Added new settings tab to configure defaults.
 * Added Mp3 support.
