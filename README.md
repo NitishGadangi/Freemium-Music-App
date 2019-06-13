@@ -11,7 +11,7 @@
             So I recently found a vulnerability in Saavn Rest API which enables you to access premium content directly. 
 So I decided why not make an app so that everyone can enjoy it.... and this app is the result.
 <br>
-**Consider Giving a ⭐ [here](https://github.com/NitishGadangi/Freemium-App) if you like my work**
+
 
 ### (version 0.6_beta)
 * Made UI Smooth by adding new animations for seamless transitions between activities.
@@ -26,6 +26,8 @@ So I decided why not make an app so that everyone can enjoy it.... and this app 
 * Fixed Several Bugs reported by many users.
 * Fixed random force close issues.
 * Fixed random appearance of XML code in file names.
+
+**Consider Giving a ⭐ [here](https://github.com/NitishGadangi/Freemium-App) if you like my work**
 
 ### Features:
 * Download High-Quality Music .m4a (320kbps or 160kbps or 96kbps) directly into your local storage.
