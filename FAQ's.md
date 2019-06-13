@@ -25,7 +25,7 @@
     
 * ***I am unable to play a song?***
     * First try downloading in mp3 format. (You can Enable mp3 from the *Settings tab* in *Downloads page* )
-    * If you are unable to play a song using default music play please try using [Poweramp music player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer). I will surely make your job done.
+    * If you are unable to play a song using default music play please try using [Poweramp music player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer). It will surely make your job done.
     * Also make sure you have added *FREEMIUM_DOWNLOADS* folder into the player library by going to  Settings->Library->MusicFolders and check *FREEMIUM_DOWNLOADS* folder in *Poweramp Music Player*.
     
 * ***Want to Stream songs online? Want to enjoy HQ-Audio without downloading?***
