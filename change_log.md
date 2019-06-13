@@ -8,6 +8,7 @@
 * Now Search Page and Browse page runs in seperate thread. So no lags anymore.
 * Open downloads folders right from the app.
 * New Icon designed by [Pruthvi Chandra](http://apkfolks.com).
+* Now you can buy me a coffee ☕
 * Fixed Several Bugs reported by many users.
 * Fixed random force close issues.
 * Fixed random appearance of XML code in file names.
