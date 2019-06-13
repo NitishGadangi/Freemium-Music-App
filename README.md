@@ -40,8 +40,7 @@ So I decided why not make an app so that everyone can enjoy it.... and this app 
 ### What about next release?
 * Will include an online streaming feature within the app.
 * Revamp the downloads page.
-* Make the app Smoother
-* Add option to select between mp3 and m4a
-* Add a toggle to enable or disable Album art Feature.
+* Make the app more Smoother
+* And you say... (mail me: apps.nitish@gmail.com)!
 
 **Made with ❤️ by Nitish**
