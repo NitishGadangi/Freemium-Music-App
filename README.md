@@ -34,7 +34,7 @@ So I decided why not make an app so that everyone can enjoy it.... and this app 
 * Enabled ID3 tagging and Album art features.
 * So every song will be compiled with song info and Album Art.
 * Search Songs directly from Saavn Database with Search feature.
-* (Experimental)Browse songs using Saavn Web UI.
+* Browse songs using Saavn Web UI.
 
 ### Few ScreenShots:
 
