@@ -28,6 +28,7 @@ So I decided why not make an app so that everyone can enjoy it.... and this app 
 * Fixed random appearance of XML code in file names.
 
 **Try reading [FAQs](https://github.com/NitishGadangi/Freemium-App/blob/master/FAQ's.md). They might solve your issues with the app**
+
 **Consider Giving a ⭐ [here](https://github.com/NitishGadangi/Freemium-App) if you like my work**
 
 ### Features:
