@@ -22,7 +22,7 @@ So I decided why not make an app so that everyone can enjoy it.... and this app 
 * Now Search Page and Browse page runs in seperate thread. So no lags anymore.
 * Open downloads folders right from the app.
 * New Icon designed by [Pruthvi Chandra](http://apkfolks.com).
-* Now you can buy me a coffee ☕
+* Now you can [buy me a coffee ☕](https://github.com/NitishGadangi/Freemium-App/blob/master/buy_me_coffee.md)
 * Fixed Several Bugs reported by many users.
 * Fixed random force close issues.
 * Fixed random appearance of XML code in file names.
@@ -43,6 +43,9 @@ So I decided why not make an app so that everyone can enjoy it.... and this app 
 ### Download from here:
 
 [![](https://github.com/NitishGadangi/Freemium-App/blob/master/click_here.png?raw=true)](https://www.mediafire.com/file/79nwirbj2vvunjg/Freemium_Music_v0.6Beta.apk/file)
+
+### Like my work?
+[![Buy me a coffee](https://github.com/NitishGadangi/Freemium-App/blob/master/ic_buy_me_cofee.png?raw=true)](https://github.com/NitishGadangi/Freemium-App/blob/master/buy_me_coffee.md)
 
 ### Things to consider:
 * The app is still in beta. So having bugs is common. If you found any bug, please report it here [Telegram Group](https://t.me/joinchat/HH4B2xFVtt6_2hbJl_qKQA).
