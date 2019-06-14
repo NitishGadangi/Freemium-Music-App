@@ -3,7 +3,7 @@
 I am undergraduate student who enjoys making these kind of projects in free time.
 
 You can encourage me by buying me a coffee, which motivates me to work consistently on this project and provide you
-regular updateswith awesome new features.
+regular updates with awesome new features.
 
 Cofee Size | Link
 -----------|--------
