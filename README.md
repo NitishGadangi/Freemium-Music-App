@@ -1,6 +1,6 @@
 <img src="https://github.com/NitishGadangi/Freemium-App/blob/master/icon_app.png?raw=true" align="right" height='250' />
 
-<h1> Freemium Music App (v0.2beta)</h1>
+<h1> Freemium Music App (v0.6beta)</h1>
 <img src="https://img.shields.io/badge/Build-Beta-blue.svg" />
 <img src="https://img.shields.io/badge/Version-0.6-green.svg" />
 <img src="https://img.shields.io/badge/Required-Android%206.0%2B-brightgreen.svg" />
