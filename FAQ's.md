@@ -46,9 +46,10 @@
 * ***Why ads?***
    * Ad's allow me to earn few bucks for my pocket money.
    * However I won't get anything unless you click on any of those Ad's.
-   * If you like my work you can [Buy me a coffee]() as a token of encouragement.
+   * If you like my work you can [Buy me a coffee](https://github.com/NitishGadangi/Freemium-App/blob/master/buy_me_coffee.md) as a token of encouragement.
     
 * ***Like my work?***
    * I am an Undergraduate Student who enjoys making these kinds of Apps in free time.
-   * You can [Buy me a cofee](). It will encourage me and help me to spend my free time for further development of the app.
+   * [![Buy Me Coffee](https://github.com/NitishGadangi/Freemium-App/blob/master/ic_buy_me_cofee.png?raw=true)](https://github.com/NitishGadangi/Freemium-App/blob/master/buy_me_coffee.md)
+   * You can [Buy me a cofee](https://github.com/NitishGadangi/Freemium-App/blob/master/buy_me_coffee.md). It will encourage me and help me to spend my free time for further development of the app.
    * ***Or you can help me by clicking on one Ad a day in the app*** which will generate ad revenue to me (Quite less than a coffee).
