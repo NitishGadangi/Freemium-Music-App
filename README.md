@@ -61,4 +61,7 @@ So I decided why not make an app so that everyone can enjoy it.... and this app 
 * Make the app more Smoother
 * And you say... (mail me: apps.nitish@gmail.com)!
 
+----------------------------------------------------------------------
+**Thank you [apkfolks.com](http://apkfolks.com) for awesome icon**
+
 **Made with ❤️ by Nitish**
