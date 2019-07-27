@@ -1,6 +1,6 @@
 ## Whats new ?
 ### (version 0.8_beta) (Released: 27 July,2019)
-* Now the app is super smooth.
+* Now the app is super smooth(Far better tha previous buld).
 * New UI for search tab. Now will get more intutive and segregated results.
   * Now you can find your songs more easily.
 * New Improved Settings tab with various requested features.
