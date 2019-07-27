@@ -64,5 +64,6 @@ So I decided why not make an app so that everyone can enjoy it.... and this app 
 
 ----------------------------------------------------------------------
 **Thank you [apkfolks.com](http://apkfolks.com) for awesome icon**
+**Credits to [flaticon.con](https://flaticon.com) for amazing flat UI elements**
 
 **Made with ❤️ by Nitish**
