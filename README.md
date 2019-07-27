@@ -45,7 +45,7 @@ So I decided why not make an app so that everyone can enjoy it.... and this app 
 
 ### Download from here:
 
-[![](https://github.com/NitishGadangi/Freemium-App/blob/master/click_here.png?raw=true)]https://github.com/NitishGadangi/Freemium-App/releases/download/0.8b/Freemium_Music_v0.8Beta.apk)
+[![](https://github.com/NitishGadangi/Freemium-App/blob/master/click_here.png?raw=true)](https://github.com/NitishGadangi/Freemium-App/releases/download/0.8b/Freemium_Music_v0.8Beta.apk)
 
 ### Like my work?
 [![Buy me a coffee](https://github.com/NitishGadangi/Freemium-App/blob/master/ic_buy_me_cofee.png?raw=true)](https://github.com/NitishGadangi/Freemium-App/blob/master/buy_me_coffee.md)
