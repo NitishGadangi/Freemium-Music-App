@@ -13,7 +13,7 @@ So I decided why not make an app so that everyone can enjoy it.... and this app 
 <br>
 
 
-### (version 0.8_beta) (Released: 27 July,2019)
+### (version 0.8_beta) (comming soon...)
 * Now the app is super smooth(Far better than previous build).
 * New UI for search tab. Now will get more intutive and segregated results.
   * Now you can find your songs more easily.
