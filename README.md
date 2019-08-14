@@ -1,10 +1,13 @@
 ![MAIN HEADER](https://github.com/NitishGadangi/Freemium-App/blob/master/playstore_banner.jpg?raw=true)
 <br>
+<br>
+<br>
 ![](https://img.shields.io/badge/Build-Beta-blue.svg)
 ![](https://img.shields.io/badge/Version-0.6-green.svg)
 ![](https://img.shields.io/badge/Required-Android%206.0%2B-brightgreen.svg)
 ![](https://img.shields.io/badge/Last%20Update-13%20June%202019-red.svg)
 ![](https://img.shields.io/badge/Downloads-3100%2B-orange.svg)
+<br>
 <br>
             So I recently found a vulnerability in Saavn Rest API which enables you to access premium content directly. 
 So I decided why not make an app so that everyone can enjoy it.... and this app is the result.
