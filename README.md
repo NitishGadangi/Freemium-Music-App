@@ -14,20 +14,16 @@ So I decided why not make an app so that everyone can enjoy it.... and this app 
 <br>
 
 
-### (version 0.8_beta) (comming soon...)
-* Now the app is super smooth(Far better than previous build).
-* New UI for search tab. Now will get more intutive and segregated results.
-  * Now you can find your songs more easily.
-* New Improved Settings tab with various requested features.
-  * Now you can set file name format.
-  * You can change download location and turn off Subfolders.
-  * Option to Enable/Disable audio tagging.
-* Added option to enter url in browse tab.
-* Updated the download notification style.
-  * Now you can Pause/Resume or Cancel your Ongoing downloads.
-* Now you can check for updates with in the app (go to More Tab).
-* Now you can donate as per your choice ([buy me a coffee ☕](https://github.com/NitishGadangi/Freemium-App/blob/master/buy_me_coffee.md)).
-* Need to wait for next build for complete stable build with Online streaming feature.
+### (version 0.9_final_beta) (Released: 22 Aug,2019)
+*This is the final Beta before public launch.*
+* Improved all UI elements to make it smooth.
+* New updated downloads tab to browse all the downloaded stuff.
+* Automatic search results is enabled.
+* Updated the Change Storage feature in settings.
+* Add Auto delete albumart option in settings.
+* Now you can ([buy me a coffee ☕](https://github.com/NitishGadangi/Freemium-App/blob/master/buy_me_coffee.md)) and enjoy complete Ad-Free experience.
+
+**Access all the previous releases from [Releases tab](https://github.com/NitishGadangi/Freemium-App/releases).**
 
 **Try reading [FAQs](https://github.com/NitishGadangi/Freemium-App/blob/master/FAQ's.md). They might solve your issues with the app**
 
@@ -47,6 +43,8 @@ So I decided why not make an app so that everyone can enjoy it.... and this app 
 ### Download from here:
 
 [![](https://github.com/NitishGadangi/Freemium-App/blob/master/click_here.png?raw=true)](https://github.com/NitishGadangi/Freemium-App/releases/download/0.8b/Freemium_Music_v0.8Beta.apk)
+
+**Access all the previous releases from [Releases tab](https://github.com/NitishGadangi/Freemium-App/releases).**
 
 ### Like my work?
 [![Buy me a coffee](https://github.com/NitishGadangi/Freemium-App/blob/master/ic_buy_me_cofee.png?raw=true)](https://github.com/NitishGadangi/Freemium-App/blob/master/buy_me_coffee.md)
