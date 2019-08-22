@@ -1,4 +1,14 @@
 ## Whats new ?
+### (version 0.9_final_beta) (Released: 22 Aug,2019)
+*This is the final Beta before public launch.*
+* Improved all UI elements to make it smooth.
+* New updated downloads tab to browse all the downloaded stuff.
+* Automatic search results is enabled.
+* Updated the Change Storage feature in settings.
+* Add Auto delete albumart option in settings.
+* Now you can ([buy me a coffee ☕](https://github.com/NitishGadangi/Freemium-App/blob/master/buy_me_coffee.md)) and enjoy complete Ad-Free experience.
+
+
 ### (version 0.8_beta) (Released: 27 July,2019)
 * Now the app is super smooth (far better than previous build).
 * New UI for search tab. Now will get more intutive and segregated results.
