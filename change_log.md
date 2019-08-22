@@ -1,6 +1,6 @@
 ## Whats new ?
 ### (version 0.9_final_beta) (Released: 22 Aug,2019)
-*This is the final Beta before public launch.*
+*This is the final Beta build before public launch.*
 * Improved all UI elements to make it smooth.
 * New updated downloads tab to browse all the downloaded stuff.
 * Automatic search results is enabled.
