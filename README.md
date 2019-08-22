@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Build-Beta-blue.svg)
 ![](https://img.shields.io/badge/Version-0.9-green.svg)
 ![](https://img.shields.io/badge/Required-Android%206.0%2B-brightgreen.svg)
-![](https://img.shields.io/badge/Last%20Update-13%Aug%202019-red.svg)
+![](https://img.shields.io/badge/Last%20Update-22%20Aug%202019-red.svg)
 ![](https://img.shields.io/badge/Downloads-5100%2B-orange.svg)
 <br>
 <br>
