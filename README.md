@@ -31,6 +31,19 @@
 Enjoy downloading your dream collection from over 50 million songs across English,Hindi,Telugu,Tamil,Punjabi and More.
 Remove the hurdles of streaming low-quality content and enjoy your favorite music on your favorite Music Player by downloading any required song on a single click directly into your local storage.
 
+### Whats special in this app?
+-	Unlimited Music Downloads
+-	In your required quality (320kbps/160kbps/96kbps)
+-	In your required format (mp3/m4a)
+-	Directly into your local storage
+-	Enabled ID3 Tagging	(*only for Android Oreo and Above)
+-	So,Every music file is embedded with AlbumArt and Audio Info
+-	With several other settings to manage downloads as per your preference
+-	You can also download lyrics for the song(Coming Soon...)
+
+### Few ScreenShots:
+
+![Screen Shots](https://github.com/NitishGadangi/Freemium-App/blob/master/screen_shots.jpg?raw=true)
 
 ### (version 0.9_final_beta) (Released: 22 Aug,2019)
 *This is the final Beta before public launch.*
@@ -47,19 +60,6 @@ Remove the hurdles of streaming low-quality content and enjoy your favorite musi
 
 **Consider Giving a ⭐ [here](https://github.com/NitishGadangi/Freemium-App) if you like my work**
 
-### Whats special in this app?
--	Unlimited Music Downloads
--	In your required quality (320kbps/160kbps/96kbps)
--	In your required format (mp3/m4a)
--	Directly into your local storage
--	Enabled ID3 Tagging	(*only for Android Oreo and Above)
--	So,Every music file is embedded with AlbumArt and Audio Info
--	With several other settings to manage downloads as per your preference
--	You can also download lyrics for the song(Coming Soon...)
-
-### Few ScreenShots:
-
-![Screen Shots](https://github.com/NitishGadangi/Freemium-App/blob/master/screen_shots.jpg?raw=true)
 
 ### Download from here:
 
