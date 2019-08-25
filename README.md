@@ -26,6 +26,8 @@
 
 **[Jsoup](https://jsoup.org/)** - a Java library for working with real-world HTML.
 
+**Go to this [Repo]() to get source code**
+
 
 ## About App
 Enjoy downloading your dream collection from over 50 million songs across English,Hindi,Telugu,Tamil,Punjabi and More.
@@ -62,8 +64,8 @@ Remove the hurdles of streaming low-quality content and enjoy your favorite musi
 
 
 ### Download from here:
-
-[![](https://github.com/NitishGadangi/Freemium-App/blob/master/click_here.png?raw=true)](https://github.com/NitishGadangi/Freemium-App/releases/download/0.9_final_beta/Freemium_Music_v0.9FinalBeta.apk)
+[![](https://github.com/NitishGadangi/Freemium-App/blob/master/click_here.png?raw=true)](https://github.com/NitishGadangi/Freemium-App/releases/download/1.0_stable/Freemium_Music_v1.0Stable.apk)
+[![](https://github.com/NitishGadangi/Freemium-App/blob/master/google_play_store.png?raw=true)]()
 
 **Access all the previous releases from [Releases tab](https://github.com/NitishGadangi/Freemium-App/releases).**
 
