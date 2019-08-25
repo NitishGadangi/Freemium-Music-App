@@ -7,11 +7,29 @@
 ![](https://img.shields.io/badge/Required-Android%206.0%2B-brightgreen.svg)
 ![](https://img.shields.io/badge/Last%20Update-22%20Aug%202019-red.svg)
 ![](https://img.shields.io/badge/Downloads-5100%2B-orange.svg)
-<br>
-<br>
+
+## Nerd Stuff
+### Libraries Used:
+**[Fetch](https://github.com/tonyofrancis/Fetch)** - A simple, powerful, customizable file download manager library for Android by Tonyofransis.
+
+**[okhtttp](https://github.com/square/okhttp)** - An HTTP client for Android, Kotlin, and Java.
+
+**[Glide](https://github.com/bumptech/glide)** - An image loading and caching library for Android focused on smooth scrolling.
+
+**[StorageChooser](https://github.com/codekidX/storage-chooser)** - Storage Choosing simplified.
+
+**[Markwon](https://github.com/noties/Markwon)** - Android markdown library.
+
+**[Jaudiotagger](https://bitbucket.org/ijabz/jaudiotagger/src/master/README.md)** - Jaudiotagger is the Audio Tagging library used for tagging data in Audio files.
+
+**[PRDownloader](https://github.com/MindorksOpenSource/PRDownloader)** - A file downloader library for Android with pause and resume support
+
+**[Jsoup](https://jsoup.org/)** - a Java library for working with real-world HTML.
+
+
+## About App
 Enjoy downloading your dream collection from over 50 million songs across English,Hindi,Telugu,Tamil,Punjabi and More.
 Remove the hurdles of streaming low-quality content and enjoy your favorite music on your favorite Music Player by downloading any required song on a single click directly into your local storage.
-<br>
 
 
 ### (version 0.9_final_beta) (Released: 22 Aug,2019)
@@ -65,25 +83,7 @@ Remove the hurdles of streaming low-quality content and enjoy your favorite musi
 * And you say... (mail me: apps.nitish@gmail.com)!
 
 ---------------------------------------------------------------------
-## Nerd Stuff
-### Libraries Used:
-**[Fetch](https://github.com/tonyofrancis/Fetch)** - A simple, powerful, customizable file download manager library for Android by Tonyofransis.
 
-**[okhtttp](https://github.com/square/okhttp)** - An HTTP client for Android, Kotlin, and Java.
-
-**[Glide](https://github.com/bumptech/glide)** - An image loading and caching library for Android focused on smooth scrolling.
-
-**[StorageChooser](https://github.com/codekidX/storage-chooser)** - Storage Choosing simplified.
-
-**[Markwon](https://github.com/noties/Markwon)** - Android markdown library.
-
-**[Jaudiotagger](https://bitbucket.org/ijabz/jaudiotagger/src/master/README.md)** - Jaudiotagger is the Audio Tagging library used for tagging data in Audio files.
-
-**[PRDownloader](https://github.com/MindorksOpenSource/PRDownloader)** - A file downloader library for Android with pause and resume support
-
-**[Jsoup](https://jsoup.org/)** - a Java library for working with real-world HTML.
-
-----------------------------------------------------------------------
 **Thank you [apkfolks.com](http://apkfolks.com) for awesome icon**
 
 **Credits to [flaticon.con](https://flaticon.com) for amazing flat UI elements**
