@@ -64,6 +64,25 @@ Remove the hurdles of streaming low-quality content and enjoy your favorite musi
 * Make the app more Smoother
 * And you say... (mail me: apps.nitish@gmail.com)!
 
+---------------------------------------------------------------------
+## Nerd Stuff
+### Libraries Used:
+**[Fetch](https://github.com/tonyofrancis/Fetch)** - A simple, powerful, customizable file download manager library for Android by Tonyofransis.
+
+**[okhtttp](https://github.com/square/okhttp)** - An HTTP client for Android, Kotlin, and Java.
+
+**[Glide](https://github.com/bumptech/glide)** - An image loading and caching library for Android focused on smooth scrolling.
+
+**[StorageChooser](https://github.com/codekidX/storage-chooser)** - Storage Choosing simplified.
+
+**[Markwon](https://github.com/noties/Markwon)** - Android markdown library.
+
+**[Jaudiotagger](https://bitbucket.org/ijabz/jaudiotagger/src/master/README.md)** - Jaudiotagger is the Audio Tagging library used for tagging data in Audio files.
+
+**[PRDownloader](https://github.com/MindorksOpenSource/PRDownloader)** - A file downloader library for Android with pause and resume support
+
+**[Jsoup](https://jsoup.org/)** - a Java library for working with real-world HTML.
+
 ----------------------------------------------------------------------
 **Thank you [apkfolks.com](http://apkfolks.com) for awesome icon**
 
