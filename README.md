@@ -2,10 +2,10 @@
 <br>
 <br>
 <br>
-![](https://img.shields.io/badge/Build-Beta-blue.svg)
-![](https://img.shields.io/badge/Version-0.9-green.svg)
+![](https://img.shields.io/badge/Build-Stable-blue.svg)
+![](https://img.shields.io/badge/Version-1.0-green.svg)
 ![](https://img.shields.io/badge/Required-Android%206.0%2B-brightgreen.svg)
-![](https://img.shields.io/badge/Last%20Update-22%20Aug%202019-red.svg)
+![](https://img.shields.io/badge/Last%20Update-25%20Aug%202019-red.svg)
 ![](https://img.shields.io/badge/Downloads-5100%2B-orange.svg)
 
 ## Nerd Stuff
@@ -47,13 +47,12 @@ Remove the hurdles of streaming low-quality content and enjoy your favorite musi
 
 ![Screen Shots](https://github.com/NitishGadangi/Freemium-App/blob/master/screen_shots.jpg?raw=true)
 
-### (version 0.9_final_beta) (Released: 22 Aug,2019)
-*This is the final Beta before public launch.*
-* Improved all UI elements to make it smooth.
-* New updated downloads tab to browse all the downloaded stuff.
-* Automatic search results is enabled.
-* Updated the Change Storage feature in settings.
-* Add Auto delete albumart option in settings.
+### (version 0.1stable) (Released: 25 Aug,2019)
+*Initial stable release which is going to be in play store*
+* Improved loading speed for auto search.
+* Added support for songs you cant be able to download previously.
+* Improved download speed.
+* Changed package name to *nitish.build.com.freemium*.
 * Now you can ([buy me a coffee ☕](https://github.com/NitishGadangi/Freemium-App/blob/master/buy_me_coffee.md)) and enjoy complete Ad-Free experience.
 
 **Access all the previous releases from [Releases tab](https://github.com/NitishGadangi/Freemium-App/releases).**
