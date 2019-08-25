@@ -9,8 +9,8 @@
 ![](https://img.shields.io/badge/Downloads-5100%2B-orange.svg)
 <br>
 <br>
-            So I recently found a vulnerability in Saavn Rest API which enables you to access premium content directly. 
-So I decided why not make an app so that everyone can enjoy it.... and this app is the result.
+Enjoy downloading your dream collection from over 50 million songs across English,Hindi,Telugu,Tamil,Punjabi and More.
+Remove the hurdles of streaming low-quality content and enjoy your favorite music on your favorite Music Player by downloading any required song on a single click directly into your local storage.
 <br>
 
 
@@ -29,12 +29,15 @@ So I decided why not make an app so that everyone can enjoy it.... and this app 
 
 **Consider Giving a ⭐ [here](https://github.com/NitishGadangi/Freemium-App) if you like my work**
 
-### Features:
-* Download High-Quality Music (.m4a or .mp3) (320kbps or 160kbps or 96kbps | AAC) directly into your local storage.
-* Enabled ID3 tagging and Album art features.
-* So every song will be compiled with song info and Album Art.
-* Search Songs directly from Saavn Database with Search feature.
-* Browse songs using Saavn Web UI.
+### Whats special in this app?
+-	Unlimited Music Downloads
+-	In your required quality (320kbps/160kbps/96kbps)
+-	In your required format (mp3/m4a)
+-	Directly into your local storage
+-	Enabled ID3 Tagging	(*only for Android Oreo and Above)
+-	So,Every music file is embedded with AlbumArt and Audio Info
+-	With several other settings to manage downloads as per your preference
+-	You can also download lyrics for the song(Coming Soon...)
 
 ### Few ScreenShots:
 
@@ -53,7 +56,7 @@ So I decided why not make an app so that everyone can enjoy it.... and this app 
 * The app is still in beta. So having bugs is common. If you found any bug, please report it here [Telegram Group](https://t.me/joinchat/HH4B2xFVtt6_2hbJl_qKQA).
 * This App is developed Lollipop (API level 22) as the base, so it should work flawlessly on Marshmallow and above devices.
 * However, ID3 tagging and Album art feature are currently enabled for only for devices with Android Oreo(Api 26) and Above.
-* Downloads page is still under development and will be released in next beta...
+* Downloads page is still under development and will be upgraded in next beta...
 
 ### What about next release?
 * Will include an online streaming feature within the app.
