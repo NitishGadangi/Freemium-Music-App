@@ -41,7 +41,7 @@ Remove the hurdles of streaming low-quality content and enjoy your favorite musi
 
 ### Few ScreenShots:
 
-![Screen Shots](https://github.com/NitishGadangi/Freemium-App/blob/master/screen_shots.png?raw=true)
+![Screen Shots](https://github.com/NitishGadangi/Freemium-App/blob/master/screen_shots.jpg?raw=true)
 
 ### Download from here:
 
