@@ -26,7 +26,7 @@ Remove the hurdles of streaming low-quality content and enjoy your favorite musi
 
 ![Screen Shots](https://github.com/NitishGadangi/Freemium-App/blob/master/screen_shots.jpg?raw=true)
 
-### (version 0.1stable) (Released: 25 Aug,2019)
+### (version 1.0 stable) (Released: 25 Aug,2019)
 *Initial stable release which is going to be in play store*
 * Improved loading speed for auto search.
 * Added support for songs you cant be able to download previously.
