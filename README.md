@@ -43,7 +43,7 @@ Remove the hurdles of streaming low-quality content and enjoy your favorite musi
 
 ### Download from here:
 [![](https://github.com/NitishGadangi/Freemium-App/blob/master/click_here.png?raw=true)](https://github.com/NitishGadangi/Freemium-App/releases/download/1.0_stable/Freemium_Music_v1.0Stable.apk)
-[![](https://github.com/NitishGadangi/Freemium-App/blob/master/google_play_store.png?raw=true)]()
+[![](https://github.com/NitishGadangi/Freemium-App/blob/master/google_play_store.png?raw=true)](https://play.google.com/store/apps/details?id=nitish.build.com.freemium)
 
 **Access all the previous releases from [Releases tab](https://github.com/NitishGadangi/Freemium-App/releases).**
 
