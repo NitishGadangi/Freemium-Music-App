@@ -10,6 +10,26 @@
 
 **Refer [this Repo](https://github.com/NitishGadangi/Freemium-App-Src) for complete Source Code of the app.**
 
+## Nerd Stuff
+### Libraries Used:
+**[Fetch](https://github.com/tonyofrancis/Fetch)** - A simple, powerful, customizable file download manager library for Android by Tonyofransis.
+
+**[okhtttp](https://github.com/square/okhttp)** - An HTTP client for Android, Kotlin, and Java.
+
+**[Glide](https://github.com/bumptech/glide)** - An image loading and caching library for Android focused on smooth scrolling.
+
+**[StorageChooser](https://github.com/codekidX/storage-chooser)** - Storage Choosing simplified.
+
+**[Markwon](https://github.com/noties/Markwon)** - Android markdown library.
+
+**[Jaudiotagger](https://bitbucket.org/ijabz/jaudiotagger/src/master/README.md)** - Jaudiotagger is the Audio Tagging library used for tagging data in Audio files.
+
+**[PRDownloader](https://github.com/MindorksOpenSource/PRDownloader)** - A file downloader library for Android with pause and resume support
+
+**[Jsoup](https://jsoup.org/)** - a Java library for working with real-world HTML.
+
+**Go to this [Repo](https://github.com/NitishGadangi/Freemium-App-Src) to get source code**
+
 ## About App
 Enjoy downloading your dream collection from over 50 million songs across English,Hindi,Telugu,Tamil,Punjabi and More.
 Remove the hurdles of streaming low-quality content and enjoy your favorite music on your favorite Music Player by downloading any required song on a single click directly into your local storage.
@@ -63,26 +83,6 @@ Remove the hurdles of streaming low-quality content and enjoy your favorite musi
 * Revamp the downloads page.
 * Make the app more Smoother
 * And you say... (mail me: apps.nitish@gmail.com)!
-
-## Nerd Stuff
-### Libraries Used:
-**[Fetch](https://github.com/tonyofrancis/Fetch)** - A simple, powerful, customizable file download manager library for Android by Tonyofransis.
-
-**[okhtttp](https://github.com/square/okhttp)** - An HTTP client for Android, Kotlin, and Java.
-
-**[Glide](https://github.com/bumptech/glide)** - An image loading and caching library for Android focused on smooth scrolling.
-
-**[StorageChooser](https://github.com/codekidX/storage-chooser)** - Storage Choosing simplified.
-
-**[Markwon](https://github.com/noties/Markwon)** - Android markdown library.
-
-**[Jaudiotagger](https://bitbucket.org/ijabz/jaudiotagger/src/master/README.md)** - Jaudiotagger is the Audio Tagging library used for tagging data in Audio files.
-
-**[PRDownloader](https://github.com/MindorksOpenSource/PRDownloader)** - A file downloader library for Android with pause and resume support
-
-**[Jsoup](https://jsoup.org/)** - a Java library for working with real-world HTML.
-
-**Go to this [Repo]() to get source code**
 
 ---------------------------------------------------------------------
 
