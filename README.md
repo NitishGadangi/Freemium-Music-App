@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/Last%20Update-25%20Aug%202019-red.svg)
 ![](https://img.shields.io/badge/Downloads-5100%2B-orange.svg)
 
+**The whole source code is now made public.**
 **Refer [this Repo](https://github.com/NitishGadangi/Freemium-App-Src) for complete Source Code of the app.**
 
 ## Nerd Stuff
