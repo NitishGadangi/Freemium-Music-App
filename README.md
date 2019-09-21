@@ -8,6 +8,8 @@
 ![](https://img.shields.io/badge/Last%20Update-25%20Aug%202019-red.svg)
 ![](https://img.shields.io/badge/Downloads-5100%2B-orange.svg)
 
+**Refer [this Repo](https://github.com/NitishGadangi/Freemium-App-Src) for complete Source Code of the app.**
+
 ## About App
 Enjoy downloading your dream collection from over 50 million songs across English,Hindi,Telugu,Tamil,Punjabi and More.
 Remove the hurdles of streaming low-quality content and enjoy your favorite music on your favorite Music Player by downloading any required song on a single click directly into your local storage.
