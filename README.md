@@ -1,4 +1,4 @@
-![MAIN HEADER](https://github.com/NitishGadangi/Freemium-App/blob/master/playstore_banner.jpg?raw=true)
+![MAIN HEADER](https://github.com/NitishGadangi/Freemium-App/blob/master/playstore_banner.png?raw=true)
 <br>
 <br>
 <br>
