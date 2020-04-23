@@ -7,8 +7,8 @@ regular updates with awesome new features.
 
 Cofee Size | Link
 -----------|--------
-Medium|https://p-y.tm/kHt-P4t
-Large|https://p-y.tm/BdS-La9
-X-Large|https://p-y.tm/cf4-xgQ
-Custom|https://p-y.tm/W8-4mek
+Medium|https://p-y.tm/NN-QPBQ
+Large|https://p-y.tm/57-iPBQ
+X-Large|https://p-y.tm/Izh5-GK
+Custom|https://p-y.tm/J-YzQDV
 
