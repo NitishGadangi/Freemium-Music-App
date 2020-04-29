@@ -102,7 +102,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 **Thank you [apkfolks.com](http://apkfolks.com) for awesome icon**
 
-**Thank you [Hope Falconer](https://github.com/dinesh0430) for amazing banner**
+**Thank you [Hope Falconer](https://github.com/dinesh0430) for lovely banner**
 
 **Credits to [flaticon.con](https://flaticon.com) for amazing flat UI elements**
 
