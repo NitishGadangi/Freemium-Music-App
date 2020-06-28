@@ -3,10 +3,10 @@
 <br>
 <br>
 ![](https://img.shields.io/badge/Build-Stable-blue.svg)
-![](https://img.shields.io/badge/Version-1.0-green.svg)
+![](https://img.shields.io/badge/Version-1.5-green.svg)
 ![](https://img.shields.io/badge/Required-Android%206.0%2B-brightgreen.svg)
-![](https://img.shields.io/badge/Last%20Update-25%20Aug%202019-red.svg)
-![](https://img.shields.io/badge/Downloads-42,200%2B-orange.svg)
+![](https://img.shields.io/badge/Last%20Update-25%20June%202020-red.svg)
+![](https://img.shields.io/badge/Downloads-51,200%2B-orange.svg)
 
 **The whole source code is now made public.**
 **Refer [this Repo](https://github.com/NitishGadangi/Freemium-App-Src) for complete Source Code of the app.**
