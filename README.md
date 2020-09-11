@@ -72,7 +72,7 @@ Remove the hurdles of streaming low-quality content and enjoy your favorite musi
 **Access all the previous releases from [Releases tab](https://github.com/NitishGadangi/Freemium-App/releases).**
 
 ### Like my work?
-[![Buy me a coffee](https://github.com/NitishGadangi/Freemium-App/blob/master/ic_buy_me_cofee.png?raw=true)](https://github.com/NitishGadangi/Freemium-App/blob/master/buy_me_coffee.md)
+[![Buy me a coffee](https://github.com/NitishGadangi/Freemium-App/blob/master/ic_buy_me_cofee.png?raw=true)](https://nitishgadangi.github.io/?buy_me_coffee)
 
 ### Things to consider:
 * The app is still in beta. So having bugs is common. If you found any bug, please report it here [Telegram Group](https://t.me/joinchat/HH4B2xFVtt6_2hbJl_qKQA).
